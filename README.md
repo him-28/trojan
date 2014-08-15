@@ -1,7 +1,7 @@
 trojan
 ======
 
-trojan which can pass many security software windows
+trojan which can pass many security software on windows
 
 * 自启动和进程驻留
 * 自动关机
